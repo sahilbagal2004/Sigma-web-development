@@ -1,0 +1,22 @@
+{
+    "name":  "video-86",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "type": "module",
+    "scripts":  {
+                    "test":  "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "dependencies":  {
+                         "global":  "^4.4.0",
+                         "nodemon":  "^3.1.11"
+                     },
+    "devDependencies":  {
+
+                        }
+}
